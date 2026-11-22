@@ -1,6 +1,3 @@
-build:
-  version: "2.0"
-
 cards:
   message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
@@ -9,3 +6,5 @@ cards:
   onCallSupport:
     - (310) 875-4367
     - (201) 236-1267
+  build:
+    version: "3.0"  
