@@ -1,6 +1,3 @@
-build:
-  version: "3.0.0"
-
 accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
@@ -9,3 +6,5 @@ accounts:
   onCallSupport:
     - (555) 555-1234
     - (555) 523-5555
+  build:
+    version: "3.0"  
